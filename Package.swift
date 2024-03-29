@@ -42,7 +42,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBAcneEyebagsRemoval",
             url: "None",
-            checksum: "5cb7109a5fef9c798cdb557d7c5c8520ec9d58a39539994fc032208923ac514b"
+            checksum: "d80ef95bbe4f0085aa3c807763f5adc6f194cf290d2ea48e3a2a4447efbd5316"
         ),
         .target(
             name: "BNBAcneEyebagsRemoval_BNBSdkCore",
