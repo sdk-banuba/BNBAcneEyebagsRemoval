@@ -42,7 +42,7 @@ let package = Package(
         .binaryTarget(
             name: "BNBAcneEyebagsRemoval",
             url: "https://d2cm7wtcqqw29.cloudfront.net/1.16.3/BNBAcneEyebagsRemoval.zip",
-            checksum: "bb9bd8be337b73928103c6f9e4985d003ab284fade23dcd2dab5cf2df6db46f6"
+            checksum: "31b6459f61ff4a4522cb30e6a0879a73c42c5023514363bef63c41a785bc8c5e"
         ),
         .target(
             name: "BNBAcneEyebagsRemoval_BNBSdkCore",
