@@ -1,7 +1,7 @@
 // swift-tools-version:5.3
 import PackageDescription
 
-let bnbPackageVersion: Version = "1.17.6"
+let bnbPackageVersion: Version = "1.17.6-65-gbf994362d5"
 
 let package = Package(
     name: "BNBAcneEyebagsRemoval",
@@ -41,8 +41,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BNBAcneEyebagsRemoval",
-            url: "https://d2cm7wtcqqw29.cloudfront.net/1.17.6/BNBAcneEyebagsRemoval.zip",
-            checksum: "08930de61d47b3406527aa8718f18d2a899d2f091dee3aa692fd21d5b13c9f1d"
+            url: "https://d2cm7wtcqqw29.cloudfront.net/1.17.6-65-gbf994362d5/BNBAcneEyebagsRemoval.zip",
+            checksum: "955f10f7995a13070616a54f647107fe39185b4b7dee57dc51469f13cec34d8e"
         ),
         .target(
             name: "BNBAcneEyebagsRemoval_BNBSdkCore",
